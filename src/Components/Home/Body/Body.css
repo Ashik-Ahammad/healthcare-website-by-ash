@@ -1,0 +1,11 @@
+.img-style{
+    opacity: 0.5;
+}
+.img-style:hover{
+    opacity: 1;
+}
+
+.body-img{
+    height: 302px;
+    width: 576px;
+}

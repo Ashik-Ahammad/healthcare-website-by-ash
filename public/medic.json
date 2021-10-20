@@ -1,0 +1,38 @@
+[
+    {
+        "id": 101,
+        "name": "Online Doctor",
+        "description": "Online Doctor Consultation is very significant at an emergency time. In critical health conditions, anyone cannot drive to go to the hospital for doctor consulting. Video calls and phone consulting are very beloved of all, and it is enough for your emergency time. This online doctor consultation service is now available all over the country.",
+        "img": "https://deshiz.com/wp-content/uploads/2020/06/Online_Doctor_Consultation_Services.png"
+    },
+    {
+        "id": 102,
+        "name": "Diagnostic Center",
+        "description": "We are committed to provide affordable services, without any compromise on the quality of service – so that you are able to remain happy.",
+        "img": "https://images-platform.99static.com/y19p5ipwyAFUhxu9Q2_HLDmzDpA=/500x500/top/smart/99designs-contests-attachments/12/12525/attachment_12525584"
+    },
+    {
+        "id": 103,
+        "name": "Online Medicine",
+        "description": "Ultra Pharmacy is a well-known retailer of medicine in Bangladesh. We provide all kinds of life saving medicine, which are available in all branches of Popular Diagnostics Ltd. Our aim is to provide good medicine and best service quality to the patients.",
+        "img": "https://pharmacyjunction.com.au/wp-content/uploads/2020/11/online-pharma.jpeg"
+    },
+    {
+        "id": 104,
+        "name": "Ambulance Service",
+        "description": "We   provide  emergency   ambulance   service  to   people  with  acute   illness  and  pregnancy  in   Dhaka,  even in some rural areas in Bangladesh. We  have  trained  paramedics,  and  doctors  in  some cases, and a range of fully equipped ambulance vehicles. Our system operates in a  coordinated  partnership among various organizations provide high quality pre-hospital  medical  care. Call 699",
+        "img": "https://lh3.googleusercontent.com/QNrYPqxXsvRDNS55xfbijnkEwNIQe2yaaTXDLIJWbkyL_qfL2M_zheMLa02FQ30AJV81rxf0R106kWD1=w1080-h608-p-no-v0"
+    },
+    {
+        "id": 105,
+        "name": "Body Fitness Guide",
+        "description": "NO GYM REQUIRED. WORK OUT ANYTIME, ANYWHERE. Forget monthly subscriptions and expensive gym equipment. The BodyBoss Ultimate Body Fitness Guide will transform your body in just 12 weeks. Give us 12 weeks, and we’ll give you…a flatter tummy, sleeker arms, slender legs, plump booty and a stronger, leaner body.",
+        "img": "https://i.pinimg.com/originals/ca/be/35/cabe35aced45af60ea48271fab85551d.jpg"
+    },
+    {
+        "id": 106,
+        "name": "Special Packs",
+        "description": "Eating a well-balanced diet can help you get the calories and nutrients you need to fuel your daily activities, including regular exercise. When it comes to eating foods to fuel your exercise performance, it’s not as simple as choosing vegetables over doughnuts. You need to eat the right types of food at the right times of the day. Learn about the importance of healthy breakfasts, workout snacks, and meal plans.",
+        "img": "https://cdn.shopify.com/s/files/1/2590/5380/articles/Chocolate-Peanut-Butter-Protein-Shake_1600x.jpg?v=1586818539"
+    }
+]

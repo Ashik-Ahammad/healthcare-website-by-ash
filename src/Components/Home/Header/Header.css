@@ -1,0 +1,12 @@
+.nav-style{
+    font-size: larger;
+    font-family:monospace ;
+    padding: 8px;
+    text-decoration: none;
+    color: antiquewhite;
+    margin-right: 40px;  
+}
+
+.nav-style:hover{ 
+    background-color:white;
+}
