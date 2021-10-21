@@ -15,7 +15,7 @@ const Home = () => {
     }, [])
 
     return (
-        <div>
+        <div className="container">
             <Header></Header>
 
             <img src={bg} alt="bg-img" className="w-100" />
@@ -39,6 +39,10 @@ const Home = () => {
                     ></Body>)
                 }
 
+            </div>
+
+            <div class="alert alert-success" role="alert">
+                !!! <a href="https://www.facebook.com/" class="alert-link">Send a message for us</a>. Give it a click if you want.
             </div>
         </div>
 

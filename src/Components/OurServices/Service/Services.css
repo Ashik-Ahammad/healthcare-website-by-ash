@@ -1,11 +1,11 @@
-.img-style{
+.service-img{
     opacity: 0.5;
 }
-.img-style:hover{
+.service-img:hover{
     opacity: 1;
 }
 
-.body-img{
+.service-img{
     height: 302px;
     width: 100%;
 }

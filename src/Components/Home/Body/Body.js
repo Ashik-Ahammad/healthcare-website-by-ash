@@ -14,7 +14,7 @@ const Body = (props) => {
 
 
             <div className="card shadow-lg">
-                <img className="body-img " src={img} alt="img" />
+                <img className="body-img img-fluid" src={img} alt="img" />
                 <div className="card-body">
                     <h5 className={id}><span>{name}</span></h5>
                     <p className="card-text">{description}</p>

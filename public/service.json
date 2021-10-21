@@ -1,0 +1,80 @@
+[
+    {
+        "id": 107,
+        "name": "Anaesthesia",
+        "description": "Anaesthesia means loss of sensation. Medicines that cause anaesthesia are called anaesthetics. Anaesthetics are used during tests and surgical operations to numb sensation in certain areas of the body or induce sleep.",
+        "img": "https://www.fortishealthcare.com/speciality_banner/mobile/anesthesia.jpg"
+    },
+    {
+        "id": 108,
+        "name": "Blood Bank",
+        "description": "A blood bank is a center where blood gathered as a result of blood donation is stored and preserved for later use in blood transfusion. The term blood bank typically refers to a division of a hospital where the storage of blood product occurs and where proper testing is performed (to reduce the risk of transfusion related adverse events). ",
+        "img": "https://lionshospital.org/wp-content/uploads/2018/01/Blood-Donate-512.png"
+    },
+    {
+        "id": 109,
+        "name": "Clinical Nutrition & Dietetics",
+        "description": "A diabetes diet simply means eating the healthiest foods in moderate amounts and sticking to regular mealtimes. A diabetes diet is a healthy-eating plan that's naturally rich in nutrients and low in fat and calories. Key elements are fruits, vegetables and whole grains.",
+        "img": "https://lh3.googleusercontent.com/proxy/RYbmfL1h0-CJnhqSPrfdA6-lEN7BA3BVKg-jhnQZ3TvDJ7XJHRet7qD1BBMmGzicqxk0NAyDLPIjw9iUyX4uBPGS6tLmi-2oZ8Te6g"
+    },
+    {
+        "id": 110,
+        "name": "Emergency Medicine",
+        "description": "Emergency medicine is the medical speciality concerned with the care of illnesses or injuries requiring immediate medical attention. Emergency physicians continuously learn to care for unscheduled and undifferentiated patients of all ages.",
+        "img": "https://www.wondrium.com/media/catalog/product/1/9/1991.jpg"
+    },
+    {
+        "id": 111,
+        "name": "Family Medicine",
+        "description": "Family medicine is a medical specialty within primary care that provides continuing and comprehensive health care for the individual and family across all ages, genders, diseases, and parts of the body. The specialist, who is usually a primary care physician, is named a family physician.",
+        "img": "https://cdn.castleconnolly.com/dims4/default/9475d21/2147483647/strip/true/crop/1000x563+0+0/resize/840x473!/quality/90/?url=http%3A%2F%2Fcastle-connolly-brightspot.s3.amazonaws.com%2F6d%2Fed%2F89f496e84f0ea6b82b6046656d68%2Fpillar-family-medicine-15-1200x675.jpg"
+    },
+    {
+        "id": 112,
+        "name": "Covid-19 Test",
+        "description": "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention. So test ASAP.",
+        "img": "https://www.news-medical.net/image.axd?picture=2021%2F9%2Fshutterstock_1656883729.jpg"
+    },
+    {
+        "id": 113,
+        "name": "Covid Care Service",
+        "description": "This package contains COVID Home Care Kit which has Digital Thermometer, ... having pulmonary pathology who needs rehab service as in post COVID cases,to continue the delivery of essential health services. While health systems around the world are being challenged by increasing demand for care of COVID-19 patients.",
+        "img": "https://www.trinityschoolofmedicine.org/hubfs/COVID-19%20Care%20Kit%201.png"
+    },
+    {
+        "id": 114,
+        "name": "Lab",
+        "description": "A medical laboratory or clinical laboratory is a laboratory where tests are carried out on clinical specimens to obtain information about the health of a patient to aid in diagnosis, treatment, and prevention of disease.[1] Clinical Medical laboratories are an example of applied science, as opposed to research laboratories that focus on basic science, such as found in some academic institutions.",
+        "img": "https://4aq45h32k3pi2qu3qs1igy4e-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/Laboratory-Equipment-Sterilization.jpg"
+    },
+    {
+        "id": 115,
+        "name": "Emergency Oxygen Service",
+        "description": " Oxygen is the most commonly used drug in emergency medicine and when used judiciously in the treatment of hypoxaemia it undoubtedly saves life. However, oxygen is often used inappropriately and the dangers of over-oxygenation are unappreciated.Call us 0n 699",
+        "img": "https://imgds360live.s3.amazonaws.com/storefront/3502324/9318896175_1588958074_3502324.jpg"
+    },
+    {
+        "id": 116,
+        "name": "Microbiology Test",
+        "description": "Aspirate culture & sensitivity, Aspirate for AFB,Blood culture & sensitivity,Cholera ag,Chlamydia,CSF- culture & sensitivity,Ear culture & sensitivity,Endocervical swab,Eye culture & sensitivity,Faecal occult blood, HVS culture & sensitivity, HVS routine examination,Nasal swab,Pleural aspirate culture & sensitivity,Pus culture & sensitivity",
+        "img": "https://microbeonline.com/ezoimgfmt/i0.wp.com/microbeonline.com/wp-content/uploads/2021/06/Lactic-acid-bacteria.jpg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-2&resize=678%2C381&ssl=1"
+    },
+    {
+        "id": 117,
+        "name": "Orthopaedics & Paralysis Care",
+        "description": "There isn't a cure for permanent paralysis. The spinal cord can't heal itself. Temporary paralysis like Bell's palsy often goes away over time without treatment. Physical, occupational and speech therapy can accommodate paralysis and provide exercises, adaptive and assistive devices to improve function.",
+        "img": "https://www.uppc-bd.org/wp-content/uploads/2019/08/slide-3-1030x376.jpg"
+    },
+    {
+        "id": 118,
+        "name": "Rehabilitation",
+        "description": "Physical medicine and rehabilitation, also known as physiatry, is a branch of medicine that aims to enhance and restore functional ability and quality of life to people with physical impairments or disabilities.",
+        "img": "https://thumbs.dreamstime.com/b/recovery-rehabilitation-steps-handicapped-man-handicapped-character-recovery-rehabilitation-stages-isolated-icons-vector-166978649.jpg"
+    },
+    {
+        "id": 119,
+        "name": "Dental Care",
+        "description": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral cavity (the mouth), commonly in the dentition (development and arrangement of teeth) as well as the oral mucosa, and of adjacent and related structures and tissues, particularly in associated maxillofacial (jaw and facial) area.",
+        "img": "https://www.nightingales.in/blog/wp-content/uploads/2018/10/RCT-Treatment-1-409x237.jpg"
+    }
+]

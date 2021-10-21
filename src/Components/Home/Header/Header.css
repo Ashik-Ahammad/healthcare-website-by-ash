@@ -1,12 +1,9 @@
 .nav-style{
     font-size: larger;
     font-family:monospace ;
-    padding: 8px;
+    padding-right: 80px;
     text-decoration: none;
     color: antiquewhite;
     margin-right: 40px;  
 }
 
-.nav-style:hover{ 
-    background-color:white;
-}
