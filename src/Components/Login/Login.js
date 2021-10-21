@@ -1,17 +1,29 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation, useHistory } from 'react-router-dom';
 import useFirebase from '../Hooks/useFirebase';
 import './Login.css'
 
 const Login = () => {
 
     const { user, signInUsingGoogle } = useFirebase();
+    const location = useLocation();
+    const history = useHistory();
+    const redirect_uri = location.state?.from || '/home';
+    console.log('came from', location.state?.from);
+
+
+    const handleGoogleLogin = () => {
+        signInUsingGoogle()
+            .then(result => {
+                history.push(redirect_uri);
+            })
+    }
 
     return (
         <div className="login-form mt-5">
             <div className="mt-5">
                 <h2>Login</h2>
-                <form onSubmit="">
+                <form >
                     <label htmlFor="inputEmail3">Email : </label>
                     <input type="email" name="" id="" placeholder="enter your email" />
                     <br />
@@ -25,7 +37,7 @@ const Login = () => {
                 <p>sign in with Google</p>
                 <button
                     className="btn-regular"
-                    onClick={signInUsingGoogle}
+                    onClick={handleGoogleLogin}
                 >Google Sign In</button>
             </div>
         </div>
