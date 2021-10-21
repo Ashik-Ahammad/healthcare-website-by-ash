@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 import AboutUs from './Components/AboutUs/AboutUs';
 import AuthProvider from './Components/Context/AuthProvider';
+import Footer from './Components/Footer/Footer';
 import Header from './Components/Home/Header/Header';
 import Home from './Components/Home/Home';
 import Login from './Components/Login/Login';
@@ -47,6 +48,7 @@ function App() {
             </Route>
           </Switch>
         </Router>
+        <Footer></Footer>
       </AuthProvider>
 
     </div>
