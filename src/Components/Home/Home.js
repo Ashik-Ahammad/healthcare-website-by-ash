@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Header from './Header/Header';
-import bg from '../../images/bg2.jpg'
+import bg from '../../images/bg1.png'
 import Body from './Body/Body';
 import { Col, Container, Row } from 'react-bootstrap';
 
@@ -18,10 +18,10 @@ const Home = () => {
         <div>
             <Header></Header>
 
-            <img src={bg} alt="bg-img" className="img-fluid" />
+            <img src={bg} alt="bg-img" className="w-100" />
 
 
-            <h2 className="mb-5 font-monospace text-primary">S E R V I C E S</h2>
+            <h2 className="my-5 font-monospace text-primary">S E R V I C E S</h2>
             <Container className="mb-5">
                 <Row>
                     <Col><h2 className="mt-5 font-monospace">We are dedicated to providing best-in-class services.</h2></Col>

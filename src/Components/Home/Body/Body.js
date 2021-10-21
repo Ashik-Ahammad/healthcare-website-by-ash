@@ -1,5 +1,4 @@
 import React from 'react';
-import { ButtonGroup } from 'react-bootstrap';
 import './Body.css'
 
 const Body = (props) => {
